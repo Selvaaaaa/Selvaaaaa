@@ -48,3 +48,16 @@
 ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)
 ![Microsoft Word](https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png)
 ![Microsoft Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Selvaaaaa&bg_color=000000&color=0055ff&line=bb00ff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
+
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/selvaleetcode6802?theme=dark&font=Noto%20Sans%20Tamil%20Supplement)
