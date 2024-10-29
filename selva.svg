@@ -1,0 +1,20 @@
+<svg width="500" height="60">
+  <style>
+    .text {
+      font: bold 30px monospace;
+      fill: black;
+      overflow: hidden;
+      white-space: nowrap;
+      width: 0;
+      animation: typing 3s steps(30), blink 0.5s step-end infinite alternate;
+    }
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    @keyframes blink {
+      50% { border-color: transparent; }
+    }
+  </style>
+  <text x="10" y="35" class="text">HELLO ! It's Me Selvaaaaa Here</text>
+</svg>
