@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f53ff238-76b3-47c5-9354-556399d494d4)# Hi there 👋 It's me Selvaaaaa
+ Hi there 👋 It's me Selvaaaaa
 
 **I'm a Web Developer  And Also Intrested In UI/UX Designing**
 
