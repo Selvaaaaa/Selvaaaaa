@@ -1,4 +1,4 @@
- Hi there 👋 It's me Selvaaaaa
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=3E5DF7&width=435&lines=Hello!+I'm+Selvaaaaa)](https://git.io/typing-svg)
 
 **I'm a Web Developer  And Also Intrested In UI/UX Designing**
 
